@@ -3,3 +3,27 @@ li{
     color: crimson;
     font-size: large;
 }
+/* Así le doy estilo a un identificador: */
+#contenedor{
+    background-color: antiquewhite;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    margin-top: 25px;
+
+}
+/* Así se le da estilo a una clase: */
+.cabecera{
+    border: red solid 3px;
+}
+
+.contenido{
+    background-color: aquamarine;
+}
+
+.destacado{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    background-color: beige;
+}
